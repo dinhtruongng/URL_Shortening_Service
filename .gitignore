@@ -4,3 +4,6 @@ temp
 # pixi environments
 .pixi
 *.egg-info
+
+# env
+.env
