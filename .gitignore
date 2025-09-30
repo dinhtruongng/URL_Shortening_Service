@@ -1,0 +1,6 @@
+# temp files
+temp
+
+# pixi environments
+.pixi
+*.egg-info
